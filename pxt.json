@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "pxt-mfrc522": "github:joy-it/pxt-rfid-mfrc522#1.0.1"
+        "pxt-mfrc522": "github:joy-it/pxt-rfid-mfrc522#1.0.1",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
